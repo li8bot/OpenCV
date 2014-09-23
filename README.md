@@ -1,4 +1,4 @@
 OpenCV
 ======
 
-Basics of OpenCV in C++
+Image Processing in Python and C++
